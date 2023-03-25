@@ -12,13 +12,13 @@ from io import StringIO
 # In[2]:
 
 
-AWS_ACCESS_KEY = "AKIATI3KRI4L6RXZHUNU"
-AWS_SECRET_KEY = "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"
-AWS_REGION = "ap-northeast-1"
-SCHEMA_NAME = "covid_19"
-S3_STAGING_DIR = "s3://adesh-athena-output/output/"
-S3_BUCKET_NAME = "adesh-athena-output"
-S3_OUTPUT_DIRECTORY = "output"
+AWS_ACCESS_KEY = "Access_key"
+AWS_SECRET_KEY = "Secret_key"
+AWS_REGION = "Region"
+SCHEMA_NAME = "Schema_name"
+S3_STAGING_DIR = "staging_area_location"
+S3_BUCKET_NAME = "Bucket_name"
+S3_OUTPUT_DIRECTORY = "o/p_dir"
 
 
 # In[3]:
